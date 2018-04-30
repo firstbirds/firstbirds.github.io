@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Graduate');
 
 body {
     margin: 0;
@@ -7,11 +7,13 @@ body {
     line-height: 1.5;
     color: #555;
     font-family: 'Montserrat', sans-serif;
+    background: #1a222c;
 }
 article, aside, figcaption, figure, footer, header, nav, section {
     display: block;
 }
 h1, h2, h3, h4, stong {
+    font-family: 'Graduate', cursive;
     margin-top: 1em;
     padding-top: 1em;
     line-height: 1.25;
