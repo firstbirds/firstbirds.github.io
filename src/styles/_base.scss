@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Graduate');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Abril+Fatface');
 
 body {
     margin: 0;
@@ -13,11 +13,12 @@ article, aside, figcaption, figure, footer, header, nav, section {
     display: block;
 }
 h1, h2, h3, h4, stong {
-    font-family: 'Graduate', cursive;
+    font-family: 'Abril Fatface', cursive;
     margin-top: 1em;
     padding-top: 1em;
     line-height: 1.25;
     color: #333;
+    letter-spacing: 0.1em;
 }
 h1 {
     font-size: 2.5rem;
